@@ -16,7 +16,7 @@ def promedio(notas)
     #reemplazando N.A por nota 2
     notas.each do |points|
         if points == 'N.A'
-            qualifications.push 2
+            qualifications.push 2.0
         else
             qualifications.push points
         end
