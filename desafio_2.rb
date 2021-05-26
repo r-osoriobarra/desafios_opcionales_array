@@ -20,4 +20,3 @@ abc_names = nombres.select {|e| /[A-C]/.match(e)}
 count_letters_names = nombres.map do |e|
                         e.length
                     end
-print count_letters_names
