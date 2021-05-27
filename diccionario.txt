@@ -1,0 +1,7 @@
+hola
+chao
+perro
+gato
+secreto
+password
+ruby
